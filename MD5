@@ -1,0 +1,12 @@
+a3ecfe8c6e9e96fe2cf8e9d440968139 *DESCRIPTION
+a6e145c33a7e7d87b63b8a29bbeb58a2 *NAMESPACE
+c373723515c13f177873d51d9e69cfc9 *R/bic.R
+e082355dabf2c64fe4f28d812363d8b5 *R/pawls.R
+719ad5170a76049d4e8715e4ee92c784 *R/pawls_cross.R
+8a4f9ce82534c91d49b9785d3d3bf11f *R/pawls_grid.R
+8f91743baf268a64342b9f9ed55127ba *R/setup_parameter.R
+f7487f54128685fb1fb1f67874d14c1a *man/pawls.Rd
+a1125efbc87ff82c635945a572286cfc *src/MaxProduct.c
+a3628b3e751a4b349b2062244403e529 *src/PAWLS_GRID.c
+4ee64ba83dd307d6fcfdf4f8fb595270 *src/registerDynamicSymbol.c
+d5360f24ce4af12e884a10e84457cb17 *src/standardize.c

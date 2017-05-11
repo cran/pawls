@@ -1,0 +1,4 @@
+export(pawls)
+useDynLib(pawls, .registration = TRUE)
+useDynLib(pawls,Standardize)
+useDynLib(pawls,PAWLS_GRID)
